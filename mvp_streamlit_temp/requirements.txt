@@ -1,0 +1,15 @@
+DateTime
+docxtpl
+google-generativeai
+huggingface-hub
+numpy
+pandas
+psutil
+PyPDF2
+regex
+scikit-learn
+streamlit
+streamlit-lottie
+torch
+torchvision
+transformers
